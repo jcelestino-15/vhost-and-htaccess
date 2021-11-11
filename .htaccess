@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Please Enter Password"
+AuthUserFile /home/jcc65664/public_html/Dev/.htpasswd
+Require valid-user
