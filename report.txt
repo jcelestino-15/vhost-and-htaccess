@@ -1,0 +1,8 @@
+Name: Jazmin Celestino
+Lab Name: z_vhost-and-htaccess
+Date Assigned: 11/3/21
+Date Completed: 11/10/21
+Status: Completed, Good Progress
+Outstanding Issues: None
+Major Impediments: None
+Feedback Comments: None
