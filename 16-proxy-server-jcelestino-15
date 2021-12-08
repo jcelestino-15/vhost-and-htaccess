@@ -1,8 +1,0 @@
-<VirtualHost *:80>
-    ServerAdmin admin@site3.internal
-    ServerName site3.internal
-    ServerAlias www.site3.internal
-    DocumentRoot /var/www/html/site3.internal/public_html
-    ErrorLog ${APACHE_LOG_DIR}/error.log
-    CustomLog ${APACHE_LOG_DIR}/access.log combined
-</VirtualHost>
